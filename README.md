@@ -2,6 +2,7 @@
 
 Este repositório contém o projeto de um sistema de monitoramento de umidade de solo desenvolvido para a plataforma **ESP32**. O sistema utiliza um sensor analógico para medir o nível de hidratação e aciona um alerta visual (LED) quando o solo está seco.
 
+VIDEO: [SENSOR DE UMIDADE](https://youtu.be/akFCxGceHmE)
 ---
 
 ## 📝 Descrição do Projeto
