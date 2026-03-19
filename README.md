@@ -9,7 +9,7 @@ VIDEO: [SENSOR DE UMIDADE](https://youtu.be/akFCxGceHmE)
 O objetivo desta atividade é realizar a leitura de dados analógicos através do **ADC (Analog-to-Digital Converter)** do ESP32. 
 - O sensor envia um valor variável que corresponde ao nível de umidade.
 - Se o valor lido ultrapassar o **limiar de 2000**, o sistema identifica que o solo precisa de água e acende o LED de alerta.
-- O status e os valores lidos são exibidos em tempo real no **Monitor Serial**.
+- O status e os valores lidos são exibidos em tempo real no **Monitor.
 
 ## 🛠️ Hardware Necessário
 | Componente | Quantidade |
